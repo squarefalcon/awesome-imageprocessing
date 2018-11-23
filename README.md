@@ -13,6 +13,9 @@ An awesome Image Processing repository
 
 <a href="https://www.coursera.org/learn/machine-learning">Machine Learning | Andrew Ng </a>
 
+<a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs">Advanced Deep Learning & Reinforcement Learning | Google Deepmind  </a>
+
+
 # Tutorials / Guides
 
 <a href="https://www.pyimagesearch.com/category/tutorials/">pyimagesearch - Awesome tutorials of real world image processig problems </a>
